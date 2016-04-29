@@ -20,4 +20,4 @@ https://cloud.githubusercontent.com/assets/18742065/14931682/465b5686-0e3b-11e6-
 - Mounted USB Charger
 https://cloud.githubusercontent.com/assets/18742065/14931684/488fa1fa-0e3b-11e6-9a3e-f0fbfcb7de2f.jpg
 
-- Most components were mounted in the enclosure with 3M 30lb 2 sided tape. The switch circuit board was crazy glued in.
+- Most components were mounted in the enclosure with 3M 30lb 2 sided tape. The switch circuit board was crazy glued in. The circuit board   was mounted in place with 1/4" stickey 3D squares.
