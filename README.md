@@ -11,3 +11,4 @@
 5. RadioShack DPDT 6-Volt DC Slide Switch Catalog #: 2750007
 6. RadioShack Project Enclosure (3x2x1") Catalog #: 2701801
 
+https://cloud.githubusercontent.com/assets/18742065/14931682/465b5686-0e3b-11e6-9cc6-a57c5aa748ae.jpg
