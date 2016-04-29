@@ -11,6 +11,7 @@
 5. RadioShack DPDT 6-Volt DC Slide Switch Catalog #: 2750007
 6. RadioShack Project Enclosure (3x2x1") Catalog #: 2701801
 
+
 - Pictures
 - Bicycle Blinkey Light
 https://cloud.githubusercontent.com/assets/18742065/14931687/49fdbc8e-0e3b-11e6-95bc-cfd6c3d40b59.jpg
@@ -18,3 +19,5 @@ https://cloud.githubusercontent.com/assets/18742065/14931687/49fdbc8e-0e3b-11e6-
 https://cloud.githubusercontent.com/assets/18742065/14931682/465b5686-0e3b-11e6-9cc6-a57c5aa748ae.jpg
 - Mounted USB Charger
 https://cloud.githubusercontent.com/assets/18742065/14931684/488fa1fa-0e3b-11e6-9a3e-f0fbfcb7de2f.jpg
+
+- Most components were mounted in the enclosure with 3M 30lb 2 sided tape. The switch circuit board was crazy glued in.
